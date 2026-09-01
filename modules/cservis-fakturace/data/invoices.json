@@ -1,0 +1,602 @@
+{
+    "92606006": {
+        "invoice_number": "92606006",
+        "created_at": "2026-06-26 16:26:50",
+        "issue_date": "2026-06-26",
+        "tax_date": "2026-06-26",
+        "due_date": "2026-07-06",
+        "payment": "card",
+        "payment_label": "Kartou",
+        "variable_symbol": "92606006",
+        "transport": "Osobní odběr",
+        "customer_suffix": "test",
+        "customer_name": "C-Servis test",
+        "customer_address": "",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "items": [
+            {
+                "code": "",
+                "name": "Plášť Schwvalbe Magic Mary 27,5 x 2,4",
+                "qty": 1,
+                "unit_gross_base": 1190,
+                "discount_percent": 0,
+                "unit_net": 983.47,
+                "unit_gross": 1190,
+                "vat_rate": 21,
+                "total_net": 983.47,
+                "total_vat": 206.53,
+                "total_gross": 1190
+            }
+        ],
+        "totals": {
+            "net": 983.47,
+            "vat": 206.53,
+            "gross": 1190
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/92606006.pdf"
+    },
+    "92606003": {
+        "invoice_number": "92606003",
+        "created_at": "2026-06-30 10:48:34",
+        "issue_date": "2026-06-30",
+        "tax_date": "2026-06-30",
+        "due_date": "2026-07-10",
+        "payment": "card",
+        "payment_label": "Kartou",
+        "variable_symbol": "92606003",
+        "transport": "Osobní odběr",
+        "customer_suffix": "sponeroa",
+        "customer_name": "C-Servis sponeroa",
+        "customer_phone": "",
+        "customer_address": "",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "workflow_state": "final",
+        "items": [
+            {
+                "code": "4063533B",
+                "name": "Brzda kotoučová přední komplet MT4102 100 cm",
+                "qty": 1,
+                "unit_gross_base": 1490,
+                "discount_percent": 0,
+                "purchase_price": 699,
+                "unit_net": 1231.4,
+                "unit_gross": 1490,
+                "vat_rate": 21,
+                "total_net": 1231.4,
+                "total_vat": 258.6,
+                "total_gross": 1490
+            }
+        ],
+        "totals": {
+            "net": 1231.4,
+            "vat": 258.6,
+            "gross": 1490
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/92606003.pdf"
+    },
+    "92606002": {
+        "invoice_number": "92606002",
+        "created_at": "2026-06-29 10:40:55",
+        "issue_date": "2026-06-29",
+        "tax_date": "2026-06-29",
+        "due_date": "2026-07-09",
+        "payment": "card",
+        "payment_label": "Kartou",
+        "variable_symbol": "92606002",
+        "transport": "Osobní odběr",
+        "customer_suffix": "",
+        "customer_name": "C-Servis",
+        "customer_address": "kerndl",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "items": [
+            {
+                "code": "MS790",
+                "name": "Malý servis",
+                "qty": 1,
+                "unit_gross_base": 790,
+                "discount_percent": 0,
+                "unit_net": 652.89,
+                "unit_gross": 790,
+                "vat_rate": 21,
+                "total_net": 652.89,
+                "total_vat": 137.11,
+                "total_gross": 790
+            }
+        ],
+        "totals": {
+            "net": 652.89,
+            "vat": 137.11,
+            "gross": 790
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/92606002.pdf"
+    },
+    "92606001": {
+        "invoice_number": "92606001",
+        "created_at": "2026-06-29 16:32:57",
+        "issue_date": "2026-06-29",
+        "tax_date": "2026-06-29",
+        "due_date": "2026-07-09",
+        "payment": "card",
+        "payment_label": "Kartou",
+        "variable_symbol": "92606001",
+        "transport": "Osobní odběr",
+        "customer_suffix": "",
+        "customer_name": "C-Servis",
+        "customer_phone": "",
+        "customer_address": "",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "workflow_state": "final",
+        "items": [
+            {
+                "code": "20min",
+                "name": "Práce mechanika 20 min.",
+                "qty": 1,
+                "unit_gross_base": 300,
+                "discount_percent": 0,
+                "purchase_price": 0,
+                "unit_net": 247.93,
+                "unit_gross": 300,
+                "vat_rate": 21,
+                "total_net": 247.93,
+                "total_vat": 52.07,
+                "total_gross": 300
+            },
+            {
+                "code": "20min",
+                "name": "Práce mechanika 20 min.",
+                "qty": 1,
+                "unit_gross_base": 300,
+                "discount_percent": 0,
+                "purchase_price": 0,
+                "unit_net": 247.93,
+                "unit_gross": 300,
+                "vat_rate": 21,
+                "total_net": 247.93,
+                "total_vat": 52.07,
+                "total_gross": 300
+            },
+            {
+                "code": "20min",
+                "name": "Práce mechanika 20 min.",
+                "qty": 1,
+                "unit_gross_base": 300,
+                "discount_percent": 0,
+                "purchase_price": 0,
+                "unit_net": 247.93,
+                "unit_gross": 300,
+                "vat_rate": 21,
+                "total_net": 247.93,
+                "total_vat": 52.07,
+                "total_gross": 300
+            },
+            {
+                "code": "20min",
+                "name": "Práce mechanika 20 min.",
+                "qty": 1,
+                "unit_gross_base": 300,
+                "discount_percent": 0,
+                "purchase_price": 0,
+                "unit_net": 247.93,
+                "unit_gross": 300,
+                "vat_rate": 21,
+                "total_net": 247.93,
+                "total_vat": 52.07,
+                "total_gross": 300
+            }
+        ],
+        "totals": {
+            "net": 991.74,
+            "vat": 208.26,
+            "gross": 1200
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/92606001.pdf"
+    },
+    "72607001": {
+        "invoice_number": "72607001",
+        "created_at": "2026-07-01 13:11:49",
+        "issue_date": "2026-07-01",
+        "tax_date": "2026-07-01",
+        "due_date": "2026-07-11",
+        "payment": "cash",
+        "payment_label": "Hotově",
+        "variable_symbol": "72607001",
+        "transport": "Osobní odběr",
+        "customer_suffix": "sponer",
+        "customer_name": "C-Servis sponer",
+        "customer_phone": "",
+        "customer_address": "",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "workflow_state": "final",
+        "items": [
+            {
+                "code": "MS790",
+                "name": "Malý servis",
+                "qty": 1,
+                "unit_gross_base": 790,
+                "discount_percent": 0,
+                "purchase_price": 0,
+                "unit_net": 652.89,
+                "unit_gross": 790,
+                "vat_rate": 21,
+                "total_net": 652.89,
+                "total_vat": 137.11,
+                "total_gross": 790
+            }
+        ],
+        "totals": {
+            "net": 652.89,
+            "vat": 137.11,
+            "gross": 790
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/72607001.pdf"
+    },
+    "72606014": {
+        "invoice_number": "72606014",
+        "created_at": "2026-06-29 16:09:42",
+        "issue_date": "2026-06-29",
+        "tax_date": "2026-06-29",
+        "due_date": "2026-07-09",
+        "payment": "cash",
+        "payment_label": "Hotově",
+        "variable_symbol": "72606014",
+        "transport": "Osobní odběr",
+        "customer_suffix": "dvorak martin",
+        "customer_name": "C-Servis dvorak martin",
+        "customer_phone": "",
+        "customer_address": "",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "workflow_state": "new",
+        "items": [
+            {
+                "code": "120min",
+                "name": "Práce mechanika 120 min.",
+                "qty": 1,
+                "unit_gross_base": 1800,
+                "discount_percent": 0,
+                "purchase_price": 0,
+                "unit_net": 1487.6,
+                "unit_gross": 1800,
+                "vat_rate": 21,
+                "total_net": 1487.6,
+                "total_vat": 312.4,
+                "total_gross": 1800
+            },
+            {
+                "code": "20min",
+                "name": "Práce mechanika 20 min.",
+                "qty": 1,
+                "unit_gross_base": 300,
+                "discount_percent": 0,
+                "purchase_price": 0,
+                "unit_net": 247.93,
+                "unit_gross": 300,
+                "vat_rate": 21,
+                "total_net": 247.93,
+                "total_vat": 52.07,
+                "total_gross": 300
+            }
+        ],
+        "totals": {
+            "net": 1735.54,
+            "vat": 364.46,
+            "gross": 2100
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/72606014.pdf"
+    },
+    "72606012": {
+        "invoice_number": "72606012",
+        "created_at": "2026-06-29 15:44:31",
+        "issue_date": "2026-06-29",
+        "tax_date": "2026-06-29",
+        "due_date": "2026-07-09",
+        "payment": "cash",
+        "payment_label": "Hotově",
+        "variable_symbol": "72606012",
+        "transport": "Osobní odběr",
+        "customer_suffix": "kerndl lukas",
+        "customer_name": "C-Servis kerndl lukas",
+        "customer_phone": "52415454",
+        "customer_address": "",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "workflow_state": "new",
+        "items": [
+            {
+                "code": "120min",
+                "name": "Práce mechanika 120 min.",
+                "qty": 1,
+                "unit_gross_base": 1800,
+                "discount_percent": 0,
+                "purchase_price": 0,
+                "unit_net": 1487.6,
+                "unit_gross": 1800,
+                "vat_rate": 21,
+                "total_net": 1487.6,
+                "total_vat": 312.4,
+                "total_gross": 1800
+            }
+        ],
+        "totals": {
+            "net": 1487.6,
+            "vat": 312.4,
+            "gross": 1800
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/72606012.pdf"
+    },
+    "72606011": {
+        "invoice_number": "72606011",
+        "created_at": "2026-06-29 14:58:48",
+        "issue_date": "2026-06-29",
+        "tax_date": "2026-06-29",
+        "due_date": "2026-07-09",
+        "payment": "cash",
+        "payment_label": "Hotově",
+        "variable_symbol": "72606011",
+        "transport": "Osobní odběr",
+        "customer_suffix": "Kamil Sponer",
+        "customer_name": "C-Servis Kamil Sponer",
+        "customer_phone": "608883892",
+        "customer_address": "",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "workflow_state": "new",
+        "items": [
+            {
+                "code": "",
+                "name": "Plášť Schwvalbe Magic Mary 27,5 x 2,4",
+                "qty": 1,
+                "unit_gross_base": 1190,
+                "discount_percent": 0,
+                "purchase_price": 790,
+                "unit_net": 983.47,
+                "unit_gross": 1190,
+                "vat_rate": 21,
+                "total_net": 983.47,
+                "total_vat": 206.53,
+                "total_gross": 1190
+            },
+            {
+                "code": "110034-302",
+                "name": "Špice DT SWISS StraightPull Champion Black - 302 mm",
+                "qty": 1,
+                "unit_gross_base": 30,
+                "discount_percent": 0,
+                "purchase_price": 12,
+                "unit_net": 24.79,
+                "unit_gross": 30,
+                "vat_rate": 21,
+                "total_net": 24.79,
+                "total_vat": 5.21,
+                "total_gross": 30
+            }
+        ],
+        "totals": {
+            "net": 1008.26,
+            "vat": 211.74,
+            "gross": 1220
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/72606011.pdf",
+        "updated_at": "2026-06-29 16:57:34"
+    },
+    "72606008": {
+        "invoice_number": "72606008",
+        "created_at": "2026-06-29 11:35:31",
+        "issue_date": "2026-06-29",
+        "tax_date": "2026-06-29",
+        "due_date": "2026-07-09",
+        "payment": "cash",
+        "payment_label": "Hotově",
+        "variable_symbol": "72606008",
+        "transport": "Osobní odběr",
+        "customer_suffix": "",
+        "customer_name": "C-Servis",
+        "customer_address": "asasas",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "items": [
+            {
+                "code": "MS790",
+                "name": "Malý servis",
+                "qty": 1,
+                "unit_gross_base": 790,
+                "discount_percent": 0,
+                "unit_net": 652.89,
+                "unit_gross": 790,
+                "vat_rate": 21,
+                "total_net": 652.89,
+                "total_vat": 137.11,
+                "total_gross": 790
+            }
+        ],
+        "totals": {
+            "net": 652.89,
+            "vat": 137.11,
+            "gross": 790
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/72606008.pdf"
+    },
+    "72606007": {
+        "invoice_number": "72606007",
+        "created_at": "2026-06-29 11:33:52",
+        "issue_date": "2026-06-29",
+        "tax_date": "2026-06-29",
+        "due_date": "2026-07-09",
+        "payment": "cash",
+        "payment_label": "Hotově",
+        "variable_symbol": "72606007",
+        "transport": "Osobní odběr",
+        "customer_suffix": "",
+        "customer_name": "C-Servis",
+        "customer_address": "dvorak",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "items": [
+            {
+                "code": "MS790",
+                "name": "Malý servis",
+                "qty": 1,
+                "unit_gross_base": 790,
+                "discount_percent": 0,
+                "unit_net": 652.89,
+                "unit_gross": 790,
+                "vat_rate": 21,
+                "total_net": 652.89,
+                "total_vat": 137.11,
+                "total_gross": 790
+            }
+        ],
+        "totals": {
+            "net": 652.89,
+            "vat": 137.11,
+            "gross": 790
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/72606007.pdf"
+    },
+    "72606003": {
+        "invoice_number": "72606003",
+        "created_at": "2026-06-26 16:27:47",
+        "issue_date": "2026-06-26",
+        "tax_date": "2026-06-26",
+        "due_date": "2026-07-06",
+        "payment": "cash",
+        "payment_label": "Hotově",
+        "variable_symbol": "72606003",
+        "transport": "Osobní odběr",
+        "customer_suffix": "test 2",
+        "customer_name": "C-Servis test 2",
+        "customer_address": "",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "items": [
+            {
+                "code": "MS790",
+                "name": "Malý servis",
+                "qty": 1,
+                "unit_gross_base": 790,
+                "discount_percent": 0,
+                "unit_net": 652.89,
+                "unit_gross": 790,
+                "vat_rate": 21,
+                "total_net": 652.89,
+                "total_vat": 137.11,
+                "total_gross": 790
+            }
+        ],
+        "totals": {
+            "net": 652.89,
+            "vat": 137.11,
+            "gross": 790
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/72606003.pdf"
+    },
+    "72606002": {
+        "invoice_number": "72606002",
+        "created_at": "2026-06-29 12:08:24",
+        "issue_date": "2026-06-29",
+        "tax_date": "2026-06-29",
+        "due_date": "2026-07-09",
+        "payment": "cash",
+        "payment_label": "Hotově",
+        "variable_symbol": "72606002",
+        "transport": "Osobní odběr",
+        "customer_suffix": "",
+        "customer_name": "C-Servis",
+        "customer_phone": "",
+        "customer_address": "dvroam martin",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "items": [
+            {
+                "code": "",
+                "name": "Plášť Schwalbe Racing Ralph 29x2,25",
+                "qty": 1,
+                "unit_gross_base": 1290,
+                "discount_percent": 0,
+                "purchase_price": 649,
+                "unit_net": 1066.12,
+                "unit_gross": 1290,
+                "vat_rate": 21,
+                "total_net": 1066.12,
+                "total_vat": 223.88,
+                "total_gross": 1290
+            },
+            {
+                "code": "",
+                "name": "Plášť Schwvalbe Magic Mary 27,5 x 2,4",
+                "qty": 1,
+                "unit_gross_base": 1190,
+                "discount_percent": 0,
+                "purchase_price": 790,
+                "unit_net": 983.47,
+                "unit_gross": 1190,
+                "vat_rate": 21,
+                "total_net": 983.47,
+                "total_vat": 206.53,
+                "total_gross": 1190
+            }
+        ],
+        "totals": {
+            "net": 2049.59,
+            "vat": 430.41,
+            "gross": 2480
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/72606002.pdf"
+    },
+    "72606001": {
+        "invoice_number": "72606001",
+        "created_at": "2026-06-26 16:43:49",
+        "issue_date": "2026-06-26",
+        "tax_date": "2026-06-26",
+        "due_date": "2026-07-06",
+        "payment": "cash",
+        "payment_label": "Hotově",
+        "variable_symbol": "72606001",
+        "transport": "Osobní odběr",
+        "customer_suffix": "test 2",
+        "customer_name": "C-Servis test 2",
+        "customer_address": "",
+        "customer_ico": "",
+        "customer_dic": "",
+        "note": "",
+        "items": [
+            {
+                "code": "MS790",
+                "name": "Malý servis",
+                "qty": 1,
+                "unit_gross_base": 790,
+                "discount_percent": 0,
+                "unit_net": 652.89,
+                "unit_gross": 790,
+                "vat_rate": 21,
+                "total_net": 652.89,
+                "total_vat": 137.11,
+                "total_gross": 790
+            }
+        ],
+        "totals": {
+            "net": 652.89,
+            "vat": 137.11,
+            "gross": 790
+        },
+        "pdf_file": "\/data\/web\/virtuals\/388160\/virtual\/www\/modules\/cservis-fakturace\/data\/invoices\/72606001.pdf",
+        "workflow_state": "final"
+    }
+}

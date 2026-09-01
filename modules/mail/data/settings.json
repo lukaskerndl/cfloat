@@ -1,0 +1,26 @@
+{
+  "account_email": "obchod@c-store.cz",
+  "imap_host": "imap.golemos.com",
+  "imap_port": 993,
+  "imap_flags": "/imap/ssl",
+  "imap_user": "obchod@c-store.cz",
+  "imap_pass": "sunka1624",
+  "smtp_host": "smtpc.golemos.com",
+  "smtp_port": 587,
+  "smtp_secure": "tls",
+  "smtp_user": "obchod@c-store.cz",
+  "smtp_pass": "sunka1624",
+  "from_name": "C-Store.cz",
+  "reply_to": "obchod@c-store.cz",
+  "sync_days": 7,
+  "sync_limit": 180,
+  "folders": {
+    "inbox": "INBOX",
+    "sent": "Sent",
+    "done": "Cfloat/Vyrizene",
+    "accounting_review": "Cfloat/Faktury_ke_kontrole",
+    "accounting_approved": "Cfloat/Faktury_pro_ucetni",
+    "trash": "Trash"
+  },
+  "invoice_keywords": "faktura,faktury,invoice,inovice,daňový doklad,danovy doklad,doklad,účtenka,uctenka,receipt,proforma,zálohová faktura,zalohova faktura,vyúčtování,vyuctovani"
+}

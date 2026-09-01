@@ -1,0 +1,60 @@
+{
+    "rows": [
+        {
+            "id": 1782479559640,
+            "date": "2026-06-26 12:00:00",
+            "name": "Minář",
+            "order_number": "RUČNÍ-20260626-151238",
+            "code": "",
+            "purchase": 7597,
+            "product": "kolo Beany zero",
+            "variant": "",
+            "qty": 1,
+            "line_total": 11990,
+            "vat": 0,
+            "created_at": "2026-06-26 15:12:38"
+        },
+        {
+            "id": 1782479743368,
+            "date": "2026-06-26 12:00:00",
+            "name": "...poslano",
+            "order_number": "RUČNÍ-20260626-151543",
+            "code": "",
+            "purchase": 30176,
+            "product": "Norco 20 full",
+            "variant": "",
+            "qty": 1,
+            "line_total": 39990,
+            "vat": 0,
+            "created_at": "2026-06-26 15:15:43"
+        },
+        {
+            "id": 1782479776820,
+            "date": "2026-06-26 12:00:00",
+            "name": "poslano ..",
+            "order_number": "RUČNÍ-20260626-151616",
+            "code": "",
+            "purchase": 34704,
+            "product": "Norco 24 full",
+            "variant": "",
+            "qty": 1,
+            "line_total": 48990,
+            "vat": 0,
+            "created_at": "2026-06-26 15:16:16"
+        },
+        {
+            "id": 1786453174815,
+            "date": "2026-07-31 12:00:00",
+            "name": "žaneta",
+            "order_number": "RUČNÍ-20260731-145934",
+            "code": "",
+            "purchase": 18588,
+            "product": "Pells strada 800",
+            "variant": "",
+            "qty": 1,
+            "line_total": 29990,
+            "vat": 0,
+            "created_at": "2026-08-11 14:59:34"
+        }
+    ]
+}

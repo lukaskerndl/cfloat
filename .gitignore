@@ -1,0 +1,34 @@
+/secrets/
+*.key
+*.pem
+qz-cert/
+/cfloat-new/feed-archive/
+/cfloat-new/tmp-feed/
+/cfloat-new/dodavatele/
+/cfloat-new/schindler/cache/
+/Dodavatele/
+/Dodavatele na SS26 Aktualizace/
+/RucniNahraniAktualizace/
+/Aktualizace_CSTORE/
+/VSECHNY SPOJENE XML FEED/
+/CStore/
+/tmp/
+/tmp_uploads/
+/print_logs/
+/gls_labels/
+/posta_labels/
+/packeta_labels/
+/tcpdf/
+/pdf-lib/
+/vendor/
+/node_modules/
+*.log
+*.xml.gz
+*.zip
+*.csv
+*.xml
+gls_cache.json
+.DS_Store
+Thumbs.db
+token.dat
+*.dat

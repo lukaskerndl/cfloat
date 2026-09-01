@@ -1,0 +1,9 @@
+{
+    "enabled": true,
+    "test_mode": true,
+    "test_phone": "+420604524524",
+    "daily_limit": 40,
+    "api_token": "f873c045085e988f0bfcc75facc4ab4a",
+    "template": "Dobrý den, Vaše objednávka  {ORDER} z C-Store.cz byla odeslána na Vaši adresu. číslo zásilky:{TRACKING} Hezký den",
+    "send_only_if_tracking": false
+}

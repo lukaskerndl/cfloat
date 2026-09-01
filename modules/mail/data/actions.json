@@ -1,0 +1,4043 @@
+[
+    {
+        "id": 1,
+        "thread_id": 1,
+        "message_id": 1,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 2,
+        "thread_id": 2,
+        "message_id": 2,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 3,
+        "thread_id": 3,
+        "message_id": 3,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 4,
+        "thread_id": 4,
+        "message_id": 4,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 5,
+        "thread_id": 5,
+        "message_id": 5,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 6,
+        "thread_id": 6,
+        "message_id": 6,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 7,
+        "thread_id": 7,
+        "message_id": 7,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 8,
+        "thread_id": 8,
+        "message_id": 8,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 9,
+        "thread_id": 9,
+        "message_id": 9,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 10,
+        "thread_id": 10,
+        "message_id": 10,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 11,
+        "thread_id": 11,
+        "message_id": 11,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 12,
+        "thread_id": 12,
+        "message_id": 12,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 13,
+        "thread_id": 13,
+        "message_id": 13,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 14,
+        "thread_id": 14,
+        "message_id": 14,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 15,
+        "thread_id": 15,
+        "message_id": 15,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 16,
+        "thread_id": 16,
+        "message_id": 16,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 17,
+        "thread_id": 17,
+        "message_id": 17,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 18,
+        "thread_id": 18,
+        "message_id": 18,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 19,
+        "thread_id": 19,
+        "message_id": 19,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 20,
+        "thread_id": 20,
+        "message_id": 20,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 21,
+        "thread_id": 21,
+        "message_id": 21,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 22,
+        "thread_id": 22,
+        "message_id": 22,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 23,
+        "thread_id": 23,
+        "message_id": 23,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 24,
+        "thread_id": 24,
+        "message_id": 24,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 25,
+        "thread_id": 25,
+        "message_id": 25,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 26,
+        "thread_id": 26,
+        "message_id": 26,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 27,
+        "thread_id": 27,
+        "message_id": 27,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 28,
+        "thread_id": 28,
+        "message_id": 28,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 29,
+        "thread_id": 29,
+        "message_id": 29,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 30,
+        "thread_id": 30,
+        "message_id": 30,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 31,
+        "thread_id": 31,
+        "message_id": 31,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 32,
+        "thread_id": 32,
+        "message_id": 32,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 33,
+        "thread_id": 33,
+        "message_id": 33,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 34,
+        "thread_id": 34,
+        "message_id": 34,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 35,
+        "thread_id": 35,
+        "message_id": 35,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 36,
+        "thread_id": 36,
+        "message_id": 36,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 37,
+        "thread_id": 37,
+        "message_id": 37,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 38,
+        "thread_id": 38,
+        "message_id": 38,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 39,
+        "thread_id": 39,
+        "message_id": 39,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 40,
+        "thread_id": 40,
+        "message_id": 40,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 41,
+        "thread_id": 41,
+        "message_id": 41,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 42,
+        "thread_id": 42,
+        "message_id": 42,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 43,
+        "thread_id": 43,
+        "message_id": 43,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 44,
+        "thread_id": 44,
+        "message_id": 44,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 45,
+        "thread_id": 45,
+        "message_id": 45,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 46,
+        "thread_id": 46,
+        "message_id": 46,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:49"
+    },
+    {
+        "id": 47,
+        "thread_id": 47,
+        "message_id": 47,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 48,
+        "thread_id": 48,
+        "message_id": 48,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 49,
+        "thread_id": 49,
+        "message_id": 49,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 50,
+        "thread_id": 50,
+        "message_id": 50,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 51,
+        "thread_id": 51,
+        "message_id": 51,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 52,
+        "thread_id": 52,
+        "message_id": 52,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 53,
+        "thread_id": 53,
+        "message_id": 53,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 54,
+        "thread_id": 54,
+        "message_id": 54,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 55,
+        "thread_id": 23,
+        "message_id": 55,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 56,
+        "thread_id": 55,
+        "message_id": 56,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 57,
+        "thread_id": 56,
+        "message_id": 57,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 58,
+        "thread_id": 57,
+        "message_id": 58,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 59,
+        "thread_id": 58,
+        "message_id": 59,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 60,
+        "thread_id": 59,
+        "message_id": 60,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 61,
+        "thread_id": 60,
+        "message_id": 61,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 62,
+        "thread_id": 61,
+        "message_id": 62,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 63,
+        "thread_id": 62,
+        "message_id": 63,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 64,
+        "thread_id": 63,
+        "message_id": 64,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 65,
+        "thread_id": 10,
+        "message_id": 65,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 66,
+        "thread_id": 64,
+        "message_id": 66,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 67,
+        "thread_id": 65,
+        "message_id": 67,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 68,
+        "thread_id": 7,
+        "message_id": 68,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 69,
+        "thread_id": 11,
+        "message_id": 69,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 70,
+        "thread_id": 41,
+        "message_id": 70,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 71,
+        "thread_id": 66,
+        "message_id": 71,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 72,
+        "thread_id": 55,
+        "message_id": 72,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 73,
+        "thread_id": 24,
+        "message_id": 73,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 74,
+        "thread_id": 67,
+        "message_id": 74,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 75,
+        "thread_id": 68,
+        "message_id": 75,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 76,
+        "thread_id": 27,
+        "message_id": 76,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 77,
+        "thread_id": 69,
+        "message_id": 77,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 78,
+        "thread_id": 70,
+        "message_id": 78,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 79,
+        "thread_id": 69,
+        "message_id": 79,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 80,
+        "thread_id": 71,
+        "message_id": 80,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 81,
+        "thread_id": 5,
+        "message_id": 81,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 82,
+        "thread_id": 72,
+        "message_id": 82,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:50"
+    },
+    {
+        "id": 83,
+        "thread_id": 41,
+        "message_id": 83,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 84,
+        "thread_id": 73,
+        "message_id": 84,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 85,
+        "thread_id": 74,
+        "message_id": 85,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 86,
+        "thread_id": 75,
+        "message_id": 86,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 87,
+        "thread_id": 76,
+        "message_id": 87,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 88,
+        "thread_id": 77,
+        "message_id": 88,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 89,
+        "thread_id": 78,
+        "message_id": 89,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 90,
+        "thread_id": 79,
+        "message_id": 90,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 91,
+        "thread_id": 80,
+        "message_id": 91,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 92,
+        "thread_id": 81,
+        "message_id": 92,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 93,
+        "thread_id": 82,
+        "message_id": 93,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 94,
+        "thread_id": 83,
+        "message_id": 94,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 95,
+        "thread_id": 84,
+        "message_id": 95,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 96,
+        "thread_id": 85,
+        "message_id": 96,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 97,
+        "thread_id": 86,
+        "message_id": 97,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 98,
+        "thread_id": 87,
+        "message_id": 98,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 99,
+        "thread_id": 7,
+        "message_id": 99,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 100,
+        "thread_id": 88,
+        "message_id": 100,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 101,
+        "thread_id": 11,
+        "message_id": 101,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 102,
+        "thread_id": 77,
+        "message_id": 102,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 103,
+        "thread_id": 89,
+        "message_id": 103,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 104,
+        "thread_id": 90,
+        "message_id": 104,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 105,
+        "thread_id": 57,
+        "message_id": 105,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 106,
+        "thread_id": 91,
+        "message_id": 106,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:51"
+    },
+    {
+        "id": 107,
+        "thread_id": 27,
+        "message_id": 107,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 108,
+        "thread_id": 92,
+        "message_id": 108,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 109,
+        "thread_id": 93,
+        "message_id": 109,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 110,
+        "thread_id": 94,
+        "message_id": 110,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 111,
+        "thread_id": 83,
+        "message_id": 111,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 112,
+        "thread_id": 95,
+        "message_id": 112,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 113,
+        "thread_id": 96,
+        "message_id": 113,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 114,
+        "thread_id": 97,
+        "message_id": 114,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 115,
+        "thread_id": 98,
+        "message_id": 115,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 116,
+        "thread_id": 99,
+        "message_id": 116,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 117,
+        "thread_id": 100,
+        "message_id": 117,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 118,
+        "thread_id": 101,
+        "message_id": 118,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 119,
+        "thread_id": 102,
+        "message_id": 119,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 120,
+        "thread_id": 77,
+        "message_id": 120,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 121,
+        "thread_id": 103,
+        "message_id": 121,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 122,
+        "thread_id": 104,
+        "message_id": 122,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 123,
+        "thread_id": 105,
+        "message_id": 123,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 124,
+        "thread_id": 106,
+        "message_id": 124,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 125,
+        "thread_id": 107,
+        "message_id": 125,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:52"
+    },
+    {
+        "id": 126,
+        "thread_id": 108,
+        "message_id": 126,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 127,
+        "thread_id": 109,
+        "message_id": 127,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 128,
+        "thread_id": 110,
+        "message_id": 128,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 129,
+        "thread_id": 111,
+        "message_id": 129,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 130,
+        "thread_id": 7,
+        "message_id": 130,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 131,
+        "thread_id": 10,
+        "message_id": 131,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 132,
+        "thread_id": 112,
+        "message_id": 132,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 133,
+        "thread_id": 113,
+        "message_id": 133,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 134,
+        "thread_id": 114,
+        "message_id": 134,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 135,
+        "thread_id": 115,
+        "message_id": 135,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 136,
+        "thread_id": 88,
+        "message_id": 136,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 137,
+        "thread_id": 116,
+        "message_id": 137,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 138,
+        "thread_id": 117,
+        "message_id": 138,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 139,
+        "thread_id": 11,
+        "message_id": 139,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 140,
+        "thread_id": 58,
+        "message_id": 140,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:53"
+    },
+    {
+        "id": 141,
+        "thread_id": 118,
+        "message_id": 141,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:54"
+    },
+    {
+        "id": 142,
+        "thread_id": 24,
+        "message_id": 142,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:54"
+    },
+    {
+        "id": 143,
+        "thread_id": 119,
+        "message_id": 143,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:54"
+    },
+    {
+        "id": 144,
+        "thread_id": 120,
+        "message_id": 144,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:54"
+    },
+    {
+        "id": 145,
+        "thread_id": 27,
+        "message_id": 145,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:54"
+    },
+    {
+        "id": 146,
+        "thread_id": 5,
+        "message_id": 146,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:54"
+    },
+    {
+        "id": 147,
+        "thread_id": 121,
+        "message_id": 147,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:54"
+    },
+    {
+        "id": 148,
+        "thread_id": 122,
+        "message_id": 148,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:54"
+    },
+    {
+        "id": 149,
+        "thread_id": 123,
+        "message_id": 149,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:54"
+    },
+    {
+        "id": 150,
+        "thread_id": 124,
+        "message_id": 150,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:54"
+    },
+    {
+        "id": 151,
+        "thread_id": 125,
+        "message_id": 151,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:54"
+    },
+    {
+        "id": 152,
+        "thread_id": 126,
+        "message_id": 152,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:54"
+    },
+    {
+        "id": 153,
+        "thread_id": 127,
+        "message_id": 153,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:55"
+    },
+    {
+        "id": 154,
+        "thread_id": 128,
+        "message_id": 154,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:55"
+    },
+    {
+        "id": 155,
+        "thread_id": 128,
+        "message_id": 155,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:55"
+    },
+    {
+        "id": 156,
+        "thread_id": 129,
+        "message_id": 156,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:55"
+    },
+    {
+        "id": 157,
+        "thread_id": 7,
+        "message_id": 157,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:55"
+    },
+    {
+        "id": 158,
+        "thread_id": 129,
+        "message_id": 158,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:55"
+    },
+    {
+        "id": 159,
+        "thread_id": 130,
+        "message_id": 159,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:55"
+    },
+    {
+        "id": 160,
+        "thread_id": 131,
+        "message_id": 160,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:55"
+    },
+    {
+        "id": 161,
+        "thread_id": 132,
+        "message_id": 161,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:55"
+    },
+    {
+        "id": 162,
+        "thread_id": 133,
+        "message_id": 162,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:55"
+    },
+    {
+        "id": 163,
+        "thread_id": 134,
+        "message_id": 163,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:55"
+    },
+    {
+        "id": 164,
+        "thread_id": 135,
+        "message_id": 164,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:55"
+    },
+    {
+        "id": 165,
+        "thread_id": 136,
+        "message_id": 165,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 166,
+        "thread_id": 11,
+        "message_id": 166,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 167,
+        "thread_id": 137,
+        "message_id": 167,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 168,
+        "thread_id": 27,
+        "message_id": 168,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 169,
+        "thread_id": 27,
+        "message_id": 169,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 170,
+        "thread_id": 138,
+        "message_id": 170,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 171,
+        "thread_id": 139,
+        "message_id": 171,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 172,
+        "thread_id": 140,
+        "message_id": 172,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 173,
+        "thread_id": 141,
+        "message_id": 173,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 174,
+        "thread_id": 142,
+        "message_id": 174,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 175,
+        "thread_id": 143,
+        "message_id": 175,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 176,
+        "thread_id": 144,
+        "message_id": 176,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 177,
+        "thread_id": 145,
+        "message_id": 177,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 178,
+        "thread_id": 120,
+        "message_id": 178,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:56"
+    },
+    {
+        "id": 179,
+        "thread_id": 146,
+        "message_id": 179,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:57"
+    },
+    {
+        "id": 180,
+        "thread_id": 147,
+        "message_id": 180,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:57"
+    },
+    {
+        "id": 181,
+        "thread_id": 148,
+        "message_id": 181,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:57"
+    },
+    {
+        "id": 182,
+        "thread_id": 3,
+        "message_id": 182,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:57"
+    },
+    {
+        "id": 183,
+        "thread_id": 4,
+        "message_id": 183,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:57"
+    },
+    {
+        "id": 184,
+        "thread_id": 3,
+        "message_id": 184,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:57"
+    },
+    {
+        "id": 185,
+        "thread_id": 149,
+        "message_id": 185,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:57"
+    },
+    {
+        "id": 186,
+        "thread_id": 6,
+        "message_id": 186,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:57"
+    },
+    {
+        "id": 187,
+        "thread_id": 150,
+        "message_id": 187,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:57"
+    },
+    {
+        "id": 188,
+        "thread_id": 151,
+        "message_id": 188,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:58"
+    },
+    {
+        "id": 189,
+        "thread_id": 152,
+        "message_id": 189,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:58"
+    },
+    {
+        "id": 190,
+        "thread_id": 22,
+        "message_id": 190,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:58"
+    },
+    {
+        "id": 191,
+        "thread_id": 153,
+        "message_id": 191,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:58"
+    },
+    {
+        "id": 192,
+        "thread_id": 47,
+        "message_id": 192,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:58"
+    },
+    {
+        "id": 193,
+        "thread_id": 23,
+        "message_id": 193,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:58"
+    },
+    {
+        "id": 194,
+        "thread_id": 154,
+        "message_id": 194,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:58"
+    },
+    {
+        "id": 195,
+        "thread_id": 155,
+        "message_id": 195,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:58"
+    },
+    {
+        "id": 196,
+        "thread_id": 156,
+        "message_id": 196,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:58"
+    },
+    {
+        "id": 197,
+        "thread_id": 46,
+        "message_id": 197,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:58"
+    },
+    {
+        "id": 198,
+        "thread_id": 48,
+        "message_id": 198,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:58"
+    },
+    {
+        "id": 199,
+        "thread_id": 157,
+        "message_id": 199,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:58"
+    },
+    {
+        "id": 200,
+        "thread_id": 47,
+        "message_id": 200,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 201,
+        "thread_id": 48,
+        "message_id": 201,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 202,
+        "thread_id": 54,
+        "message_id": 202,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 203,
+        "thread_id": 23,
+        "message_id": 203,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 204,
+        "thread_id": 158,
+        "message_id": 204,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 205,
+        "thread_id": 59,
+        "message_id": 205,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 206,
+        "thread_id": 159,
+        "message_id": 206,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 207,
+        "thread_id": 160,
+        "message_id": 207,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 208,
+        "thread_id": 161,
+        "message_id": 208,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 209,
+        "thread_id": 162,
+        "message_id": 209,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 210,
+        "thread_id": 163,
+        "message_id": 210,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 211,
+        "thread_id": 164,
+        "message_id": 211,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 212,
+        "thread_id": 165,
+        "message_id": 212,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 213,
+        "thread_id": 166,
+        "message_id": 213,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:25:59"
+    },
+    {
+        "id": 214,
+        "thread_id": 167,
+        "message_id": 214,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 215,
+        "thread_id": 168,
+        "message_id": 215,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 216,
+        "thread_id": 169,
+        "message_id": 216,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 217,
+        "thread_id": 170,
+        "message_id": 217,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 218,
+        "thread_id": 88,
+        "message_id": 218,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 219,
+        "thread_id": 107,
+        "message_id": 219,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 220,
+        "thread_id": 171,
+        "message_id": 220,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 221,
+        "thread_id": 118,
+        "message_id": 221,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 222,
+        "thread_id": 172,
+        "message_id": 222,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 223,
+        "thread_id": 173,
+        "message_id": 223,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 224,
+        "thread_id": 129,
+        "message_id": 224,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 225,
+        "thread_id": 174,
+        "message_id": 225,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 226,
+        "thread_id": 130,
+        "message_id": 226,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:00"
+    },
+    {
+        "id": 227,
+        "thread_id": 175,
+        "message_id": 227,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:01"
+    },
+    {
+        "id": 228,
+        "thread_id": 114,
+        "message_id": 228,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:01"
+    },
+    {
+        "id": 229,
+        "thread_id": 129,
+        "message_id": 229,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:01"
+    },
+    {
+        "id": 230,
+        "thread_id": 136,
+        "message_id": 230,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:01"
+    },
+    {
+        "id": 231,
+        "thread_id": 176,
+        "message_id": 231,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:01"
+    },
+    {
+        "id": 232,
+        "thread_id": 177,
+        "message_id": 232,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:01"
+    },
+    {
+        "id": 233,
+        "thread_id": 178,
+        "message_id": 233,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:26:01"
+    },
+    {
+        "id": 234,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:26:16"
+    },
+    {
+        "id": 235,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 13:27:21"
+    },
+    {
+        "id": 236,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:27:21"
+    },
+    {
+        "id": 237,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:27:23"
+    },
+    {
+        "id": 238,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 13:27:25"
+    },
+    {
+        "id": 239,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:27:25"
+    },
+    {
+        "id": 240,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "take",
+        "note": "Převzato pracovníkem.",
+        "created_at": "2026-06-26 13:27:27"
+    },
+    {
+        "id": 241,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:27:27"
+    },
+    {
+        "id": 242,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "take",
+        "note": "Převzato pracovníkem.",
+        "created_at": "2026-06-26 13:27:29"
+    },
+    {
+        "id": 243,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:27:29"
+    },
+    {
+        "id": 244,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:27:30"
+    },
+    {
+        "id": 245,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 13:27:31"
+    },
+    {
+        "id": 246,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:27:31"
+    },
+    {
+        "id": 247,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "move_done",
+        "note": "Přesunuto do vyřízených.",
+        "created_at": "2026-06-26 13:27:34"
+    },
+    {
+        "id": 248,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:27:34"
+    },
+    {
+        "id": 249,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "move_done",
+        "note": "Přesunuto do vyřízených.",
+        "created_at": "2026-06-26 13:28:17"
+    },
+    {
+        "id": 250,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:28:19"
+    },
+    {
+        "id": 251,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 13:28:20"
+    },
+    {
+        "id": 252,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:28:20"
+    },
+    {
+        "id": 253,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:29:10"
+    },
+    {
+        "id": 254,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:29:11"
+    },
+    {
+        "id": 255,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:29:11"
+    },
+    {
+        "id": 256,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:29:15"
+    },
+    {
+        "id": 257,
+        "thread_id": 178,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:29:16"
+    },
+    {
+        "id": 258,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:29:17"
+    },
+    {
+        "id": 259,
+        "thread_id": 178,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:29:19"
+    },
+    {
+        "id": 260,
+        "thread_id": 178,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:30:28"
+    },
+    {
+        "id": 261,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:31:03"
+    },
+    {
+        "id": 262,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:31:05"
+    },
+    {
+        "id": 263,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:31:13"
+    },
+    {
+        "id": 264,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:31:14"
+    },
+    {
+        "id": 265,
+        "thread_id": 178,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:31:15"
+    },
+    {
+        "id": 266,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:31:17"
+    },
+    {
+        "id": 267,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:31:21"
+    },
+    {
+        "id": 268,
+        "thread_id": 129,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:31:31"
+    },
+    {
+        "id": 269,
+        "thread_id": 145,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:31:52"
+    },
+    {
+        "id": 270,
+        "thread_id": 175,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:31:59"
+    },
+    {
+        "id": 271,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:32:06"
+    },
+    {
+        "id": 272,
+        "thread_id": 145,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:32:27"
+    },
+    {
+        "id": 273,
+        "thread_id": 145,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "approve_accounting",
+        "note": "Schváleno a přesunuto pro účetní.",
+        "created_at": "2026-06-26 13:32:32"
+    },
+    {
+        "id": 274,
+        "thread_id": 145,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:32:32"
+    },
+    {
+        "id": 275,
+        "thread_id": 145,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:32:40"
+    },
+    {
+        "id": 276,
+        "thread_id": 145,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:32:43"
+    },
+    {
+        "id": 277,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:32:53"
+    },
+    {
+        "id": 278,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:32:54"
+    },
+    {
+        "id": 279,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:32:56"
+    },
+    {
+        "id": 280,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:32:57"
+    },
+    {
+        "id": 281,
+        "thread_id": 168,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:04"
+    },
+    {
+        "id": 282,
+        "thread_id": 39,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:16"
+    },
+    {
+        "id": 283,
+        "thread_id": 73,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:20"
+    },
+    {
+        "id": 284,
+        "thread_id": 130,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:23"
+    },
+    {
+        "id": 285,
+        "thread_id": 128,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:29"
+    },
+    {
+        "id": 286,
+        "thread_id": 170,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:33"
+    },
+    {
+        "id": 287,
+        "thread_id": 169,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:35"
+    },
+    {
+        "id": 288,
+        "thread_id": 98,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:39"
+    },
+    {
+        "id": 289,
+        "thread_id": 73,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:42"
+    },
+    {
+        "id": 290,
+        "thread_id": 168,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:43"
+    },
+    {
+        "id": 291,
+        "thread_id": 168,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:43"
+    },
+    {
+        "id": 292,
+        "thread_id": 168,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:45"
+    },
+    {
+        "id": 293,
+        "thread_id": 168,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:45"
+    },
+    {
+        "id": 294,
+        "thread_id": 169,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:46"
+    },
+    {
+        "id": 295,
+        "thread_id": 169,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:46"
+    },
+    {
+        "id": 296,
+        "thread_id": 170,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:47"
+    },
+    {
+        "id": 297,
+        "thread_id": 119,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:34:48"
+    },
+    {
+        "id": 298,
+        "thread_id": 130,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:38:48"
+    },
+    {
+        "id": 299,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:38:52"
+    },
+    {
+        "id": 300,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 13:38:54"
+    },
+    {
+        "id": 301,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:38:54"
+    },
+    {
+        "id": 302,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:38:56"
+    },
+    {
+        "id": 303,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:38:57"
+    },
+    {
+        "id": 304,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:38:58"
+    },
+    {
+        "id": 305,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:38:59"
+    },
+    {
+        "id": 306,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 13:39:00"
+    },
+    {
+        "id": 307,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:00"
+    },
+    {
+        "id": 308,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 13:39:36"
+    },
+    {
+        "id": 309,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:36"
+    },
+    {
+        "id": 310,
+        "thread_id": 178,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:40"
+    },
+    {
+        "id": 311,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:42"
+    },
+    {
+        "id": 312,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Označeno barvou: red",
+        "created_at": "2026-06-26 13:39:43"
+    },
+    {
+        "id": 313,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:43"
+    },
+    {
+        "id": 314,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:46"
+    },
+    {
+        "id": 315,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Označeno barvou: green",
+        "created_at": "2026-06-26 13:39:48"
+    },
+    {
+        "id": 316,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:48"
+    },
+    {
+        "id": 317,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:49"
+    },
+    {
+        "id": 318,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Označeno barvou: orange",
+        "created_at": "2026-06-26 13:39:50"
+    },
+    {
+        "id": 319,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:50"
+    },
+    {
+        "id": 320,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:53"
+    },
+    {
+        "id": 321,
+        "thread_id": 145,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:54"
+    },
+    {
+        "id": 322,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:56"
+    },
+    {
+        "id": 323,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Označeno barvou: orange",
+        "created_at": "2026-06-26 13:39:57"
+    },
+    {
+        "id": 324,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:57"
+    },
+    {
+        "id": 325,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:58"
+    },
+    {
+        "id": 326,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Barevné označení zrušeno.",
+        "created_at": "2026-06-26 13:39:59"
+    },
+    {
+        "id": 327,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:39:59"
+    },
+    {
+        "id": 328,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Barevné označení zrušeno.",
+        "created_at": "2026-06-26 13:47:00"
+    },
+    {
+        "id": 329,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 13:47:06"
+    },
+    {
+        "id": 330,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:47:08"
+    },
+    {
+        "id": 331,
+        "thread_id": 143,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:50:10"
+    },
+    {
+        "id": 332,
+        "thread_id": 143,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "note",
+        "note": "zkouska poslani a infomraci",
+        "created_at": "2026-06-26 13:50:27"
+    },
+    {
+        "id": 333,
+        "thread_id": 179,
+        "message_id": 234,
+        "worker": "lukas",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 13:50:37"
+    },
+    {
+        "id": 334,
+        "thread_id": 143,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "reply",
+        "note": "Odeslána odpověď zákazníkovi.",
+        "created_at": "2026-06-26 13:50:37"
+    },
+    {
+        "id": 335,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:51:05"
+    },
+    {
+        "id": 336,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:51:06"
+    },
+    {
+        "id": 337,
+        "thread_id": 148,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:51:17"
+    },
+    {
+        "id": 338,
+        "thread_id": 175,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:51:19"
+    },
+    {
+        "id": 339,
+        "thread_id": 54,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 13:51:22"
+    },
+    {
+        "id": 340,
+        "thread_id": 54,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:01:23"
+    },
+    {
+        "id": 341,
+        "thread_id": 54,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:06:40"
+    },
+    {
+        "id": 342,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:06:46"
+    },
+    {
+        "id": 343,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:06:48"
+    },
+    {
+        "id": 344,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:06:54"
+    },
+    {
+        "id": 345,
+        "thread_id": 178,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:06:56"
+    },
+    {
+        "id": 346,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:06:58"
+    },
+    {
+        "id": 347,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Označeno barvou: red",
+        "created_at": "2026-06-26 14:06:59"
+    },
+    {
+        "id": 348,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:01"
+    },
+    {
+        "id": 349,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:01"
+    },
+    {
+        "id": 350,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 14:07:02"
+    },
+    {
+        "id": 351,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:04"
+    },
+    {
+        "id": 352,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:05"
+    },
+    {
+        "id": 353,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:07"
+    },
+    {
+        "id": 354,
+        "thread_id": 178,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:08"
+    },
+    {
+        "id": 355,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:09"
+    },
+    {
+        "id": 356,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Označeno barvou: red",
+        "created_at": "2026-06-26 14:07:10"
+    },
+    {
+        "id": 357,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:11"
+    },
+    {
+        "id": 358,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Označeno barvou: green",
+        "created_at": "2026-06-26 14:07:12"
+    },
+    {
+        "id": 359,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:14"
+    },
+    {
+        "id": 360,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Označeno barvou: orange",
+        "created_at": "2026-06-26 14:07:15"
+    },
+    {
+        "id": 361,
+        "thread_id": 178,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:17"
+    },
+    {
+        "id": 362,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:35"
+    },
+    {
+        "id": 363,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:38"
+    },
+    {
+        "id": 364,
+        "thread_id": 120,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Barevné označení zrušeno.",
+        "created_at": "2026-06-26 14:07:39"
+    },
+    {
+        "id": 365,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:40"
+    },
+    {
+        "id": 366,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Barevné označení zrušeno.",
+        "created_at": "2026-06-26 14:07:41"
+    },
+    {
+        "id": 367,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:43"
+    },
+    {
+        "id": 368,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Barevné označení zrušeno.",
+        "created_at": "2026-06-26 14:07:44"
+    },
+    {
+        "id": 369,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:45"
+    },
+    {
+        "id": 370,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Barevné označení zrušeno.",
+        "created_at": "2026-06-26 14:07:46"
+    },
+    {
+        "id": 371,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:47"
+    },
+    {
+        "id": 372,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Barevné označení zrušeno.",
+        "created_at": "2026-06-26 14:07:48"
+    },
+    {
+        "id": 373,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:51"
+    },
+    {
+        "id": 374,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:51"
+    },
+    {
+        "id": 375,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:53"
+    },
+    {
+        "id": 376,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:07:53"
+    },
+    {
+        "id": 377,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 14:11:23"
+    },
+    {
+        "id": 378,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:11:24"
+    },
+    {
+        "id": 379,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:11:25"
+    },
+    {
+        "id": 380,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 14:11:27"
+    },
+    {
+        "id": 381,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:11:29"
+    },
+    {
+        "id": 382,
+        "thread_id": 180,
+        "message_id": 235,
+        "worker": "lukas",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 14:16:57"
+    },
+    {
+        "id": 383,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:19:23"
+    },
+    {
+        "id": 384,
+        "thread_id": 180,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:19:24"
+    },
+    {
+        "id": 385,
+        "thread_id": 143,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:19:28"
+    },
+    {
+        "id": 386,
+        "thread_id": 143,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "process_color",
+        "note": "Barevné označení zrušeno.",
+        "created_at": "2026-06-26 14:19:29"
+    },
+    {
+        "id": 387,
+        "thread_id": 143,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:19:31"
+    },
+    {
+        "id": 388,
+        "thread_id": 180,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:19:39"
+    },
+    {
+        "id": 389,
+        "thread_id": 180,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "approve_accounting",
+        "note": "Schváleno a přesunuto pro účetní.",
+        "created_at": "2026-06-26 14:20:15"
+    },
+    {
+        "id": 390,
+        "thread_id": 176,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:20:19"
+    },
+    {
+        "id": 391,
+        "thread_id": 176,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 14:20:21"
+    },
+    {
+        "id": 392,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:20:25"
+    },
+    {
+        "id": 393,
+        "thread_id": 180,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:20:26"
+    },
+    {
+        "id": 394,
+        "thread_id": 180,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "unseen",
+        "note": "Označeno jako nepřečtené.",
+        "created_at": "2026-06-26 14:20:27"
+    },
+    {
+        "id": 395,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:20:28"
+    },
+    {
+        "id": 396,
+        "thread_id": 179,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:30:20"
+    },
+    {
+        "id": 397,
+        "thread_id": 129,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:30:25"
+    },
+    {
+        "id": 398,
+        "thread_id": 129,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:30:38"
+    },
+    {
+        "id": 399,
+        "thread_id": 177,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:31:08"
+    },
+    {
+        "id": 400,
+        "thread_id": 178,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:31:15"
+    },
+    {
+        "id": 401,
+        "thread_id": 146,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:31:23"
+    },
+    {
+        "id": 402,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:31:24"
+    },
+    {
+        "id": 403,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "move_done",
+        "note": "Přesunuto do vyřízených.",
+        "created_at": "2026-06-26 14:31:26"
+    },
+    {
+        "id": 404,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:31:27"
+    },
+    {
+        "id": 405,
+        "thread_id": 145,
+        "message_id": 236,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 14:31:36"
+    },
+    {
+        "id": 406,
+        "thread_id": 147,
+        "message_id": 237,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 14:31:36"
+    },
+    {
+        "id": 407,
+        "thread_id": 181,
+        "message_id": 238,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 14:31:36"
+    },
+    {
+        "id": 408,
+        "thread_id": 126,
+        "message_id": 239,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 14:31:36"
+    },
+    {
+        "id": 410,
+        "thread_id": 183,
+        "message_id": 241,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 14:31:37"
+    },
+    {
+        "id": 411,
+        "thread_id": 184,
+        "message_id": 242,
+        "worker": "",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 14:31:37"
+    },
+    {
+        "id": 412,
+        "thread_id": 147,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:31:39"
+    },
+    {
+        "id": 413,
+        "thread_id": 181,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:31:41"
+    },
+    {
+        "id": 414,
+        "thread_id": 126,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:31:45"
+    },
+    {
+        "id": 415,
+        "thread_id": 126,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:32:49"
+    },
+    {
+        "id": 417,
+        "thread_id": 183,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:34:24"
+    },
+    {
+        "id": 418,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:34:27"
+    },
+    {
+        "id": 419,
+        "thread_id": 184,
+        "message_id": 243,
+        "worker": "lukas",
+        "action": "import",
+        "note": "Zpráva načtena z pošty.",
+        "created_at": "2026-06-26 14:35:30"
+    },
+    {
+        "id": 420,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "reply",
+        "note": "Odeslána odpověď zákazníkovi.",
+        "created_at": "2026-06-26 14:35:30"
+    },
+    {
+        "id": 421,
+        "thread_id": 126,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:36:13"
+    },
+    {
+        "id": 422,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:37:29"
+    },
+    {
+        "id": 426,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:38:01"
+    },
+    {
+        "id": 427,
+        "thread_id": 183,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:41:00"
+    },
+    {
+        "id": 428,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:41:02"
+    },
+    {
+        "id": 429,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:41:07"
+    },
+    {
+        "id": 430,
+        "thread_id": 126,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:42:50"
+    },
+    {
+        "id": 432,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:42:52"
+    },
+    {
+        "id": 433,
+        "thread_id": 181,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:44:49"
+    },
+    {
+        "id": 436,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:50:59"
+    },
+    {
+        "id": 439,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:51:07"
+    },
+    {
+        "id": 441,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:52:30"
+    },
+    {
+        "id": 443,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:52:53"
+    },
+    {
+        "id": 444,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:53:08"
+    },
+    {
+        "id": 445,
+        "thread_id": 130,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:57:10"
+    },
+    {
+        "id": 446,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:57:22"
+    },
+    {
+        "id": 448,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:57:23"
+    },
+    {
+        "id": 450,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 14:57:32"
+    },
+    {
+        "id": 452,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:02:54"
+    },
+    {
+        "id": 453,
+        "thread_id": 183,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:06:48"
+    },
+    {
+        "id": 454,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:06:49"
+    },
+    {
+        "id": 457,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:06:58"
+    },
+    {
+        "id": 458,
+        "thread_id": 183,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:07:09"
+    },
+    {
+        "id": 459,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:07:10"
+    },
+    {
+        "id": 461,
+        "thread_id": 182,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:07:16"
+    },
+    {
+        "id": 462,
+        "thread_id": 181,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:07:19"
+    },
+    {
+        "id": 463,
+        "thread_id": 183,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:11:30"
+    },
+    {
+        "id": 464,
+        "thread_id": 184,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:11:32"
+    },
+    {
+        "id": 465,
+        "thread_id": 181,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:11:34"
+    },
+    {
+        "id": 466,
+        "thread_id": 126,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:11:38"
+    },
+    {
+        "id": 467,
+        "thread_id": 183,
+        "message_id": null,
+        "worker": "lukas",
+        "action": "seen",
+        "note": "Otevřeno kliknutím.",
+        "created_at": "2026-06-26 15:11:50"
+    }
+]
